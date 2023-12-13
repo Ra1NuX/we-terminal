@@ -1,0 +1,23 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Step into the vibrant world of 'Dynamic Developer's Haven', a Wallpaper Engine masterpiece designed for coding enthusiasts and tech aficionados alike. This living workspace is a tribute to the elegance of code and the power of modern web development.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "/assets/preview.jpg",
+	"tags" : [ "Technology", "Terminal", "Powerlevel10k", "Typed", "Nerd Fonts"],
+	"title" : "Dynamic Developer's Heaven Terminal",
+	"type" : "web",
+	"version" : "1.0"
+}

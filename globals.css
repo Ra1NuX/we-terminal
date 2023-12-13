@@ -1,0 +1,55 @@
+
+
+  #detail{
+    /*background-color: aqua;*/
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size:medium;
+    /* Fondo de color negro */
+    /* color: #5C6370; */
+    /* Fondo de color blanco */
+    color: white;
+    font-weight: 500;
+}
+
+  @keyframes backdiv {
+    50% {
+      /* background: #ffe6f2; */
+    }
+  }
+  @keyframes beat {
+    0% {
+      transform: scale(1) rotate(-45deg);
+    }
+    50% {
+      transform: scale(0.6) rotate(-45deg);
+    }
+  }
+
+  @font-face {
+    font-family: 'MesloLGS NF';
+    src: url('C:\Users\Ra1NuXs\AppData\Local\Microsoft\Windows\Fonts\MesloLGS NF Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+.ts {
+  text-shadow: 1px 0px #868fa0;
+  z-index: 10;
+}
+
+@keyframes cursorShrink {
+  0%, 100% {
+      transform: scaleX(1);
+  }
+  50% {
+      transform: scaleX(0);
+  }
+}
+
+.typed-cursor {
+  position: relative;
+  top: -2px; /* Ajusta este valor según sea necesario */
+}
