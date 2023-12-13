@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'MesloLGS NF';
+  src: url('/fonts/MesloLGS\ NF\ Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ts {
+  text-shadow: 1px 0px #868fa0;
+  z-index: 10;
+}
+
+
+.typed-cursor {
+  position: relative;
+  top: -2px;
+  /* Ajusta este valor según sea necesario */
+}
